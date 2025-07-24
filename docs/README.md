@@ -39,7 +39,8 @@ skills = {
 
 ---
 
-## 🌟 Featured Projects {#featured-projects}
+<a id="featured-projects"></a>
+## 🌟 Featured Projects
 
 ### 🛒 E-commerce Sales Analysis
 Conducted comprehensive sales-trend analysis of **$13.6M revenue**, providing insights into purchasing behavior and optimizing delivery operations.
