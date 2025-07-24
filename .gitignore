@@ -1,0 +1,16 @@
+# Ignore everything in the root directory
+*
+
+# But don't ignore the docs folder and its contents
+!docs/
+!docs/**
+
+# Don't ignore this .gitignore file itself
+!.gitignore
+
+# Don't ignore README.md if you want to keep it for GitHub repo description
+!README.md
+
+# Optional: Keep these files if you want them in the repo
+# !LICENSE
+# !package.json 
