@@ -107,8 +107,3 @@ Skilled in market research, sales strategies, and entrepreneurial business devel
 
 **Available upon request**
 
----
-
----
-
-*Last updated: {docsify-updated}* 
