@@ -27,15 +27,17 @@ I'm a data-driven Computer Science graduate with a strong background in data ana
 
 ## 🛠️ Tech Stack
 
-```python
-skills = {
-    "programming": ["Python", "SQL", "JavaScript", "HTML", "CSS"],
-    "data_science": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
-    "tools": ["Power BI", "SQLite", "Git", "GitHub", "Excel"],
-    "specialties": ["Machine Learning", "Data Analysis", "Financial Modeling"],
-    "soft_skills": ["Critical Thinking", "Communication", "Project Management"]
-}
-```
+| Category | Technologies |
+|----------|-------------|
+| **Programming** | Python, SQL, JavaScript, HTML, CSS |
+| **Data Analysis & ML** | Pandas, NumPy, Scikit-learn, TensorFlow |
+| **Financial Modelling** | Forecasting models, profitability analysis (Excel & Python) |
+| **Excel Expertise** | Basic data analysis & reporting |
+| **Tools** | Power BI, SQLite, Git, GitHub, Microsoft Office Suite |
+| **Business Intelligence** | Currently studying for PL-300 Power BI Certification |
+| **Soft Skills** | Critical Thinking, Effective Communication, Project Management, Storytelling |
+| **Languages** | English, Mandarin, Cantonese |
+
 
 ---
 
