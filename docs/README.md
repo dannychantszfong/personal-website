@@ -44,10 +44,10 @@ I'm a data-driven Computer Science graduate with a strong background in data ana
 <a id="featured-projects"></a>
 ## 🌟 Featured Projects
 
-### 🛒 E-commerce Sales Analysis
+### 🛒 E-commerce Sales Analysis(https://github.com/dannychantszfong/E-commerce-Sales-and-Customer-Insights)
 Conducted comprehensive sales-trend analysis of **$13.6M revenue**, providing insights into purchasing behavior and optimizing delivery operations.
 
-### 🚗 Vehicle Sales Data Analysis
+### 🚗 Vehicle Sales Data Analysis(https://github.com/dannychantszfong/Vehicle_sales_data_analysis)
 Built an end-to-end **Power BI dashboard** with **TensorFlow regression model** achieving **R² = 0.978** accuracy for vehicle price forecasting.
 
 ---
