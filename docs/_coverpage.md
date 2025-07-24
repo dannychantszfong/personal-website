@@ -13,4 +13,4 @@ Transforming data into actionable insights and building innovative solutions tha
 
 🔗 **[LinkedIn](http://www.linkedin.com/in/tsz-fong-chan-7201b7269)** | 💻 **[GitHub](http://www.github.com/dannychantszfong)**
 
-[Get Started](#main) [View Projects](projects.md)
+[Get Started](#main) [View Projects](#featured-projects)
