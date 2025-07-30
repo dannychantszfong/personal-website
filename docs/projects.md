@@ -8,6 +8,52 @@ Welcome to my technical portfolio! Here you'll find a collection of projects tha
 
 ## 🚀 Featured Projects
 
+### 🏢 **IBM HR Analytics - Employee Attrition Analysis**
+
+**🎯 Objective**: Reduce employee attrition by 10% through data-driven insights and predictive modeling
+
+**📊 Key Achievements**:
+- Conducted comprehensive **statistical analysis** using CRISP-DM methodology
+- Built **multiple machine learning models** (Logistic Regression, Random Forest, SVM, KNN, Neural Networks)
+- Identified **primary drivers of attrition** with statistical significance testing
+- Created **100+ visualizations** for exploratory data analysis
+- Developed **Power BI dashboard** for stakeholder reporting
+
+**🛠️ Technologies Used**:
+- **Python**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+- **Statistical Analysis**: Cramer's V, Chi-square tests, correlation analysis
+- **Machine Learning**: Multiple algorithms with cross-validation
+- **Power BI**: Interactive dashboard development
+- **Data Science**: Feature engineering, model evaluation, business impact assessment
+
+**📈 Key Findings**:
+- **Overtime** is the strongest predictor (Cramer's V=0.24, +8% attrition risk)
+- **Marital Status** shows significant correlation (Cramer's V=0.18, +2% for singles)
+- **Age Factor**: Younger employees (median 33 vs. 37) show 3-5% higher attrition
+- **Department Variations**: Sales roles show 40% turnover delta
+
+**🔍 Technical Details**:
+```python
+# Statistical Analysis Results
+key_findings = {
+    "Overtime_Impact": "Cramer's V = 0.24 (Strongest predictor)",
+    "Marital_Status": "Cramer's V = 0.18 (Significant correlation)",
+    "Age_Correlation": "Younger employees: +3-5% attrition risk",
+    "Models_Tested": ["Logistic Regression", "Random Forest", "SVM", "KNN", "Neural Networks"],
+    "Methodology": "CRISP-DM with 5-fold cross-validation"
+}
+```
+
+**📈 Business Impact**:
+- Provided actionable recommendations for HR interventions
+- Identified high-risk employee segments for targeted retention programs
+- Supported data-driven decision making for workforce planning
+- Created monitoring framework for ongoing attrition analysis
+
+**🔗 Project Link**: [View on GitHub](https://github.com/dannychantszfong/IBM-HR-Analytics-Employee-Attrition-Performance-Analysis)
+
+---
+
 ### 🛒 **E-commerce Sales and Customer Insights**
 
 **🎯 Objective**: Analyze comprehensive e-commerce data to drive business decisions and optimize operations

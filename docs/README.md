@@ -44,6 +44,9 @@ I'm a data-driven Computer Science graduate with a strong background in data ana
 <a id="featured-projects"></a>
 ## 🌟 Featured Projects
 
+### 🏢 IBM HR Analytics - Employee Attrition Analysis(https://github.com/dannychantszfong/IBM-HR-Analytics-Employee-Attrition-Performance-Analysis)
+Conducted comprehensive statistical analysis using **CRISP-DM methodology**, built **multiple ML models**, and identified **primary drivers of attrition** with **Cramer's V analysis** showing overtime as strongest predictor (+8% attrition risk).
+
 ### 🛒 E-commerce Sales Analysis(https://github.com/dannychantszfong/E-commerce-Sales-and-Customer-Insights)
 Conducted comprehensive sales-trend analysis of **$13.6M revenue**, providing insights into purchasing behavior and optimizing delivery operations.
 
